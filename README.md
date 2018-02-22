@@ -4,7 +4,7 @@ Move all messages from one SQS queue, to another.
 
 ## Installation
 
-    go get github.com/scottjbarr/sqsmv
+    go get -u github.com/tiagofmcosta/sqsmv
 
 
 ## Configuration
@@ -35,6 +35,6 @@ Create some SQS messages to play with using the AWS CLI.
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Scott Barr
+Copyright (c) 2018 Tiago Costa
 
 See [LICENSE.md](LICENSE.md)
